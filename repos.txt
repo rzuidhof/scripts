@@ -1,0 +1,7 @@
+reposync.sh rhel-7-server-rh-common-rpms;
+reposync.sh rhel-7-server-supplementary-rpms;
+reposync.sh rhel-7-server-rpms;
+reposync.sh rhel-server-rhscl-7-rpms
+reposync.sh rhel-7-server-extras-rpms;
+reposync.sh rhel-7-server-optional-rpms;
+reposync.sh epel
